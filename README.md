@@ -137,3 +137,9 @@ PROJECT STATUS: ACTIVE DEVELOPMENT
 
 This repository will be updated as new infrastructure,
 services, and configurations are implemented.
+
+## Documentation
+
+Detailed documentation of the home lab infrastructure, configuration, and troubleshooting.
+
+- [Network Topology and Configuration](docs/network-topology.md) — Network architecture, IP addressing, BIND9 DNS, isolation testing, and troubleshooting.
